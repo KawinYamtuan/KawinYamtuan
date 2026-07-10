@@ -2,9 +2,9 @@
 <p align="center">Applied Engineer · Software Engineer · Robotics · Neuroscience Data</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/kawin-yamtuan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://portfolio-nu-lake-84.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"></a>
-  <a href="mailto:kawinyamtuan14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/kawin-yamtuan"><img src="https://img.shields.io/badge/LinkedIn-C8B6E2?style=for-the-badge&logo=linkedin&logoColor=3A2E4D"></a>
+  <a href="https://portfolio-nu-lake-84.vercel.app"><img src="https://img.shields.io/badge/Portfolio-A8D8D0?style=for-the-badge&logo=vercel&logoColor=1E4640"></a>
+  <a href="mailto:kawinyamtuan14@gmail.com"><img src="https://img.shields.io/badge/Email-F4B8C4?style=for-the-badge&logo=gmail&logoColor=5C1F2B"></a>
 </p>
 
 <table>
@@ -58,14 +58,10 @@ Portfolio......: portfolio-nu-lake-84.vercel.app
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KawinYamtuan&theme=tokyonight" width="100%" />
+  <img height="170" src="https://readme-stats-omega-two.vercel.app/api?username=KawinYamtuan&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=C8B6E2&text_color=B0B7D4&icon_color=F4B8C4&ring_color=F5C6A5" />
+  <img height="170" src="https://readme-stats-omega-two.vercel.app/api/top-langs/?username=KawinYamtuan&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=C8B6E2&text_color=B0B7D4" />
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawinYamtuan&theme=tokyonight" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawinYamtuan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawinYamtuan&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KawinYamtuan&hide_border=true&background=0d1117&stroke=C8B6E2&ring=F5C6A5&fire=F4B8C4&currStreakLabel=C8B6E2&sideLabels=B0B7D4&currStreakNum=F5F5F5&sideNums=F5F5F5&dates=8891A8" />
 </p>
