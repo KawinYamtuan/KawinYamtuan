@@ -58,8 +58,8 @@ Portfolio......: portfolio-nu-lake-84.vercel.app
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://readme-stats-omega-two.vercel.app/api?username=KawinYamtuan&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=C8B6E2&text_color=B0B7D4&icon_color=F4B8C4&ring_color=F5C6A5" />
-  <img height="170" src="https://readme-stats-omega-two.vercel.app/api/top-langs/?username=KawinYamtuan&layout=compact&hide_border=true&langs_count=8&bg_color=0d1117&title_color=C8B6E2&text_color=B0B7D4" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KawinYamtuan&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KawinYamtuan&theme=radical" />
 </p>
 
 <p align="center">
