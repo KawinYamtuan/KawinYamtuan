@@ -1,80 +1,53 @@
-# Hi there 👋 I'm Kawin
+<h1 align="center">Hi there 👋 I'm Kawin</h1>
+<p align="center">Applied Engineer · Software Engineer · Robotics · Neuroscience Data</p>
 
-I'm an Applied Engineer with a background in Mechanical Engineering and Robotics & Automation.  
-My experience spans robotics systems, neuroscience research, EEG/eye-tracking data analysis, and frontend software development.
+<p align="center">
+  <a href="https://linkedin.com/in/kawin-yamtuan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://portfolio-nu-lake-84.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"></a>
+  <a href="mailto:kawinyamtuan14@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"></a>
+</p>
 
-Currently, I'm focusing on growing as a Software Engineer, especially in building practical, reliable, and user-centered software systems.
+```
+                                              kawin@github
+                                              --------------------------------------------------
+                                              Role...........: Applied Engineer / Software Engineer
+                                              Host...........: KMUTT - Institute of Field Robotics
+                                              Location.......: Nonthaburi, Thailand
+                                              Status.........: Open to Software Engineer roles
+$$$$$$@$&W$$B*Zwpn[(({f|?}[?}JJ_Il!![Qt-[[
+%$*&$8&$8o$@M#hC[>~--+l:,>]tOn<<-???<{Oc)|    Education......: M.Eng Robotics & Automation (KMUTT, 2023-Present)
+$$$$$$$$%&$$$$U_jQO0Jc\-I.!w|>[1))(||[]OU\                     B.Eng Mechanical (Thammasat, 1st Class Honors, GPAX 3.59)
+B$88$B%$B*$@&$z+wCzzXx([)"?x<111)(((|/1[mn
+%$&&$B8$B*$$@$BvOc\zY/xjj[t{]11)(((|((|]vL    Languages.Prog.: Python, TypeScript, C++, R
+%$$$$$$$@M%%%8%pOOXUz\rXf(u1]11)()1(((([xL    Languages.Real.: Thai (native), English
+Zbkh*aa&%hhkhdaoqJnYXj)j|1Qz~11111{11))-Jv    AI / ML........: PyTorch, Deep Learning, Transformers, Computer Vision
+Zmpbpddd&##hobkaodLCYx\[[)(0t~[{{{}}}]<jU{    Web............: Next.js, React, Node.js, Tailwind CSS, REST APIs
+mqbbkkhw**hhadkkbqw0Ur(\jt/xU(___+~>>_fx{x    Robotics.......: ROS2, MuJoCo, PyBullet, OpenCV, MQTT, 6-DOF Arm
+CCmwwwwmwZZZZLLCJC0ZOLUYnxunrunrf1[\fnxrLm    Signal.Proc....: EEG Preprocessing, Eye-tracking, Multimodal Analysis
+OZwwmwwpwpZCYYUUJCCCJYXcvvvccvccccnxYUQmOQ    Data...........: NumPy, Pandas, scikit-learn, SciPy, Feature Extraction
+mb*WkwqqwZLYXJJJJJCJJJUYXzzccccuuXr|vZOQQQ    Tools..........: Git, Postman, SQLite, ANSYS
+CCXXXvxYJOCvzUJJJJUUUUUUUYXXccvxnXj\\uCXCU
+?-?__-)0zJLncULCJUYXczXXYXXzcuxjrcf\tjnnux    Projects.......: EEG Hyperscanning - Social Decision-Making (MSc Thesis)
+\|[-<<UmnxCvzJQCJYzcvczXXzzcvnjtjv/\tjnzcX                     Delta Robot + YOLOv5 Visual Servoing (BSc Thesis)
+1|xf{xwLftxnrXJCzvvvvczzzccnxuxt/x/\/xnj//                     6-DOF Robotic Arm ROS2 High-level Control
+:UMJcmLYr}jj1uYctjvvvvcccvvxrnur|/\\txuj//                     Real-time SSVEP BCI Classification
+ndU}cvULx\(}?|f/(fuvccccvvuxjxuu))(\trvjxu                     BOROT - Robotics & AI Learning Platform (Frontend)
+j\?}tn0Uutt)~~1)|rvcccccvvuxjjuv|[1(\xujxu
+~\vJqXYUjrx~^<)\fncczzzcvuvxffxux]]{\nxjrx    Publications...: JRC 2023 - Visual Servo Control of Delta Robot (YOLOv5)
+fpwwZXfzfj}!i{jjxvzXXXcvnnvnftjxn(<[txjjnn                     Brain Informatics 2025 - Multi-site Hyperscanning
+                                              Certs..........: HCCDA-AI (Huawei) . Gemini Certified Educator (Google)
 
----
-
-## 🚀 What I'm Working On
-
-- Building frontend web applications using Next.js, TypeScript, and Tailwind CSS
-- Developing robotics and automation projects with Python, ROS2, OpenCV, and MQTT
-- Working on neuroscience research involving EEG hyperscanning, eye-tracking, and behavioral data analysis
-- Improving my software engineering skills through real-world projects and open-source learning
-
----
-
-## 🧠 Research & Engineering Interests
-
-- Software Engineering
-- Frontend Development
-- Robotics & Automation
-- Computer Vision
-- EEG and Eye-tracking Data Analysis
-- Human-Robot Interaction
-- Brain-Computer Interface
-
----
-
-## 🛠️ Technologies & Tools
-
-### Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Web Development
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Robotics & Data
-![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338E?style=for-the-badge&logo=opencv&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Ansys](https://img.shields.io/badge/Ansys-FFB71B?style=for-the-badge&logo=ansys&logoColor=black)
+                                              Contact........: kawinyamtuan14@gmail.com
+                                              LinkedIn.......: linkedin.com/in/kawin-yamtuan
+                                              GitHub.........: github.com/KawinYamtuan
+                                              Portfolio......: portfolio-nu-lake-84.vercel.app
+```
 
 ---
 
-## 📌 Featured Projects
+### 📊 GitHub Stats
 
-### BOROT — Robotics & AI Learning Platform
-Frontend development for a robotics and AI learning platform using Next.js, TypeScript, Tailwind CSS, and modern UI components.
-
-### ROS2 High-level Control System for 6-DOF Robotic Arm
-Developed high-level robotic arm control features including jog control, Cartesian control, kinematics, ROS2 services, and Python-based UI.
-
-### Top-view Vision for Robot Object Localization
-Built an OpenCV-based vision module to detect colored objects, estimate object centers, and publish robot target positions through MQTT.
-
-### Real-time SSVEP BCI Mind-controlled Switch
-Developed an EEG signal processing and classification pipeline for SSVEP-based brain-computer interaction.
-
-### Delta Robot with Visual Servoing using YOLOv5
-Developed a low-cost Delta robot with real-time object detection, visual servoing, inverse kinematics, and pick-and-place control.
-
----
-
-## 📫 Connect with Me
-
-- GitHub: [github.com/KawinYamtuan](https://github.com/KawinYamtuan)
-- LinkedIn: [linkedin.com/in/kawin-yamtuan](https://linkedin.com/in/kawin-yamtuan)
-- Portfolio: [portfolio-nu-lake-84.vercel.app](https://portfolio-nu-lake-84.vercel.app)
-
----
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=KawinYamtuan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KawinYamtuan&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
